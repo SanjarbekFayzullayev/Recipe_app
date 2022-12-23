@@ -1,16 +1,5 @@
 # ricep_app
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![lessining text](https://user-images.githubusercontent.com/121254411/209388411-bf5623bc-5ce8-4f73-9f32-e1cebb549880.png)
+![Annotation 2022-12-23 231148](https://user-images.githubusercontent.com/121254411/209388581-a1e99728-a471-400e-88ec-3707bd19ca64.png)
