@@ -1,4 +1,4 @@
-# ricep_app
+# Ricep_app
 
 
 ![lessining text](https://user-images.githubusercontent.com/121254411/209388411-bf5623bc-5ce8-4f73-9f32-e1cebb549880.png)
